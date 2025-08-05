@@ -7,7 +7,7 @@ pygame.init()
 
 WIDTH, HEIGHT = 1280, 960
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Játék összevonva")
+pygame.display.set_caption("Jumping Hero")
 clock = pygame.time.Clock()
 
 WHITE = (255, 255, 255)
